@@ -1,0 +1,6 @@
+framework module Pods_WowInfo {
+  umbrella header "Pods-WowInfo-umbrella.h"
+
+  export *
+  module * { export * }
+}
